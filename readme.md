@@ -24,6 +24,3 @@ paige test
 this 
 
 testing
-
-
-test
